@@ -1,0 +1,16 @@
+# Exercise 5
+
+## Created by
+
+- Zalida
+
+## Description
+
+- three different charts
+- pie chart: I had 7 different colors for the number of votes
+- bar chart:
+- horizontal bar chart
+
+# charts
+
+npm instal --save chart.js react-chartjs-2
